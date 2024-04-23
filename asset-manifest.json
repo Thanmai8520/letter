@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/letter/static/css/main.e28f97cd.css",
+    "main.js": "/letter/static/js/main.37e1aaf0.js",
+    "static/js/453.fd73fc4e.chunk.js": "/letter/static/js/453.fd73fc4e.chunk.js",
+    "static/media/nebula.mp4": "/letter/static/media/nebula.7af3612cd5b674e34a51.mp4",
+    "index.html": "/letter/index.html",
+    "main.e28f97cd.css.map": "/letter/static/css/main.e28f97cd.css.map",
+    "main.37e1aaf0.js.map": "/letter/static/js/main.37e1aaf0.js.map",
+    "453.fd73fc4e.chunk.js.map": "/letter/static/js/453.fd73fc4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e28f97cd.css",
+    "static/js/main.37e1aaf0.js"
+  ]
+}
